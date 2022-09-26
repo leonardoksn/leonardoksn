@@ -1,5 +1,5 @@
 <body>
-  <h1 align="center">ツﻬஐﻬ 🅼🆈 🅿🆁🅾🅵🅸🅻🅴 🅾🅽🅻🆈 ﻬஐﻬツ</h1>
+  <h1 align="center">My Profile</h1>
   <br />
   <div align="center">
     <img
@@ -10,29 +10,27 @@
   </div>
   <br />
   <div>
-    <h2 align="center">ツﻬஐﻬ 🅰🅱🅾🆄🆃 🅼🅴 ﻬஐﻬツ</h2>
+    <h2 align="center">About Me</h2>
     <img
       height="219px"
       src="https://c.tenor.com/FuOLCTTv3-gAAAAC/one-more-time-daft-punk.gif"
       align="right"
     />
-    <li><b>Name:</b> Leonardo Only</li>
-    <li><b>Studying:</b>TypeScript, Socket.io, Analysis and systems development, Docker, and more</li>
+    <li><b>Name:</b> Leonardo Nunes</li>
+    <li><b>Studying:</b>TypeScript, Socket.io, Analysis and systems development, Docker, pm2</li>
     <li>
-      <b>Loves:</b> Play age of empires and waste time watching tiktok only
+      <b>Loves:</b> Play Age of Empires and League of Legends.
     </li>
-    <li><b>Gender:</b> Man only</li>
     <li>
-      <b>Hobbys:</b> Develop and program with the power of javascript... for a
-      while... only
+      <b>Hobbys:</b> Develop and program with the power of javascript, troubleshoot
     </li>
-    <li><b>Working:</b> Grupo Koch only</li>
+    <li><b>Working:</b>Grupo Koch</li>
     <br />
   </div>
   <div>
     <h2 align="left" style="font-size: 24px">
-                        ༒ ░ K̴n̴o̴w̴l̴e̴d̴g̴e̴ ░ ༒
-    </h2>
+                         K̴n̴o̴w̴l̴e̴d̴g̴e̴
+                         </h2>
     <p>
       <img
         width="226px"
@@ -63,13 +61,9 @@
         src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"
       />
       <br /><br />
-      If you want to see one of the fruits of my work
-      <a href="https://brilliant-hummingbird-a0636c.netlify.app/"
-        >go ahead lol</a
-      >
     </p>
     <br />
-    <h2>                   🅲🅾🅽🆃🅰🅲🆃 🅼🅴</h2>
+    <h2>                   Contact Me</h2>
     <img
       src="https://i.pinimg.com/originals/e8/92/de/e892dec8e471ca8e623ee1241d1f79d4.gif"
       align="right"
