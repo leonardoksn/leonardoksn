@@ -5,7 +5,7 @@
     <img
        height="250em"
       style="border-radius:100%"
-      src="https://c.tenor.com/fPQ21xzWPtwAAAAd/kusuo-saiki-kusuo.gif"
+      src="images/kusuo-saiki-kusuo.gif"
     />
   </div>
   <br />
@@ -13,28 +13,23 @@
     <h2 align="center">About Me</h2>
     <img
       height="219px"
-      src="https://c.tenor.com/FuOLCTTv3-gAAAAC/one-more-time-daft-punk.gif"
+      src="images/one-more-time-daft-punk.gif"
       align="right"
     />
     <li><b>Name:</b> Leonardo Nunes</li>
-    <li><b>Studying:</b>TypeScript, Socket.io, Analysis and systems development, Docker, pm2</li>
+    <li><b>Studying:</b> TypeScript, Golang, Python, Docker and Kubernetes</li>
     <li>
-      <b>Loves:</b> Play Age of Empires and League of Legends.
+      <b>Hobbys: </b>  Games and solve programming problems
     </li>
-    <li>
-      <b>Hobbys:</b> Develop and program with the power of javascript, troubleshoot
-    </li>
-    <li><b>Working:</b>Grupo Koch</li>
+    <li><b>Working:</b> Grupo Koch</li>
     <br />
   </div>
   <div>
-    <h2 align="left" style="font-size: 24px">
-                         K̴n̴o̴w̴l̴e̴d̴g̴e̴
-                         </h2>
+    <h2 align="left" style="font-size: 24px">Knowledge</h2>
     <p>
       <img
         width="226px"
-        src="https://c.tenor.com/VY_u6XxLLqgAAAAd/spy-x-family-spy-family.gif"
+        src="images/ichinose.gif"
         align="right"
       />
     </p>
@@ -43,29 +38,32 @@
   <div>
     <p align="center">
       <img
-        src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"
+        src="https://img.shields.io/badge/Go-%23007d9c.svg?style=for-the-badge&logo=go&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/reactjs%20-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=#3096FF"
+        src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"
+        src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+        "
       /><br />
        <img
         src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+        src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white
+        "
       />
       <img
-        src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"
+        src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=web&logoColor=white
+        "
       />
       <br /><br />
     </p>
     <br />
-    <h2>                   Contact Me</h2>
+    <h2>Contact Me</h2>
     <img
-      src="https://i.pinimg.com/originals/e8/92/de/e892dec8e471ca8e623ee1241d1f79d4.gif"
+      src="images/saiki.gif"
       align="right"
       width="373.5px"
       height="208.5px"
@@ -98,7 +96,7 @@
       <h2 align="center">⚡Thanks for reading this far!⚡</h2>
       <div align="center">
         <img
-          src="https://thumbs.gfycat.com/IlliterateBasicHawaiianmonkseal.webp"
+          src="images/gojo.gif"
         />
       </div>
       <hr />
