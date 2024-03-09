@@ -44,19 +44,16 @@
         src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-        "
+        src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
       /><br />
        <img
         src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white
-        "
+        src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"
       />
       <img
-        src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=web&logoColor=white
-        "
+        src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=web&logoColor=white"
       />
       <br /><br />
     </p>
