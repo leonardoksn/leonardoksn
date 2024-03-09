@@ -5,15 +5,15 @@
     <img
        height="250em"
       style="border-radius:100%"
-      src="images/kusuo-saiki-kusuo.gif"
+      src="https://raw.githubusercontent.com/leonardoksn/leonardoksn/main/images/kusuo-saiki-kusuo.gif"
     />
   </div>
   <br />
   <div>
     <h2 align="center">About Me</h2>
     <img
-      height="219px"
-      src="images/one-more-time-daft-punk.gif"
+      height="160px"
+      src="https://raw.githubusercontent.com/leonardoksn/leonardoksn/main/images/one-more-time-daft-punk.gif"
       align="right"
     />
     <li><b>Name:</b> Leonardo Nunes</li>
@@ -28,8 +28,8 @@
     <h2 align="left" style="font-size: 24px">Knowledge</h2>
     <p>
       <img
-        width="226px"
-        src="images/ichinose.gif"
+        height="180px"
+        src="https://raw.githubusercontent.com/leonardoksn/leonardoksn/main/images/ichinose.gif"
         align="right"
       />
     </p>
@@ -63,7 +63,7 @@
     <br />
     <h2>Contact Me</h2>
     <img
-      src="images/saiki.gif"
+      src="https://raw.githubusercontent.com/leonardoksn/leonardoksn/main/images/saiki.gif"
       align="right"
       width="373.5px"
       height="208.5px"
@@ -96,7 +96,7 @@
       <h2 align="center">⚡Thanks for reading this far!⚡</h2>
       <div align="center">
         <img
-          src="images/gojo.gif"
+          src="https://raw.githubusercontent.com/leonardoksn/leonardoksn/main/images/gojo.gif"
         />
       </div>
       <hr />
